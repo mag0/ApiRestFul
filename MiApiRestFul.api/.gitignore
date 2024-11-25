@@ -1,0 +1,10 @@
+# Visual Studio
+.vs/
+.vscode/
+bin/
+obj/
+
+# OS generated files
+*.DS_Store
+Thumbs.db
+
